@@ -1,6 +1,7 @@
 Package.describe({
     name: 'cloudinary',
     version: '1.2.4',
+    git: 'https://github.com/jedirandy/meteor-cloudinary.git',
     summary: 'Cloudinary NPM, Cloudinary jQuery plugin package for Meteor'
 });
 

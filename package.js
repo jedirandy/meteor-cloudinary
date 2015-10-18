@@ -20,5 +20,5 @@ Package.onUse(function(api) {
 });
 
 Npm.depends({
-    'cloudinary': '1.2.4'
+    'cloudinary': '1.2.5'
 });

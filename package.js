@@ -1,6 +1,6 @@
 Package.describe({
     name: 'jedirandy:cloudinary',
-    version: '1.2.4',
+    version: '1.2.5',
     documentation: 'README.md',
     git: 'https://github.com/jedirandy/meteor-cloudinary.git',
     summary: 'Cloudinary NPM, Cloudinary jQuery plugin package for Meteor'

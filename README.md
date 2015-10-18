@@ -3,13 +3,13 @@ Cloudinary NPM, jQuery package for meteor
 
 Current version:
 
-Cloudinary NPM `1.2.4`
+Cloudinary NPM `1.2.5`
 https://github.com/cloudinary/cloudinary_npm
 
 Cloudinary jQuery plugin `1.0.25`
 https://github.com/cloudinary/cloudinary_js
 
-## Examples
+## Usage
 
 ### Server-side:
 
